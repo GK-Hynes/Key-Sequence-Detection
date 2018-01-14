@@ -2,7 +2,7 @@
 
 A page made to practice working with key sequence detection, in this case the Konami code. Built for Wes Bos' [JavaScript 30](https://javascript30.com/) course.
 
-![Screenshot of key sequence detection page, with Konami logo](https://res.cloudinary.com/gerhynes/image/upload/v1515945887/Screenshot-2018-1-14_Key_Detection_1_amzugq.png)
+![Screenshot of key sequence detection page, with Konami logo](https://res.cloudinary.com/gerhynes/image/upload/v1515946849/Screenshot-2018-1-14_Key_Detection_2_hfubj8.png)
 
 ## Notes
 
@@ -36,4 +36,4 @@ Since cornify.js does not use https you may run into problems.
 
 One alternative is to show a gif when the secret code is entered.
 
-Here the logo, keycode and gif are selected. Then a function, `replaceLogo`, is run which, by adding classes of hidden and active respectively, sets the standard logo and keycode to `display: none;` and the secret gif to `display: block;`
+Here the logo, keycode and (initially hidden) gif are selected. Then a function, `replaceLogo`, is run. This function adds classes of hidden to the standard logo and keycode and active to the secret gif, which sets the standard logo and keycode to `display: none;` and the secret gif to `display: block;`
