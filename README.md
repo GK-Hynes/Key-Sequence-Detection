@@ -1,8 +1,8 @@
-# Key Sequence Detection
+# [Key Sequence Detection](https://gk-hynes.github.io/key-sequence-detection/)
 
 A page made to practice working with key sequence detection, in this case the Konami code. Built for Wes Bos' [JavaScript 30](https://javascript30.com/) course.
 
-![Screenshot of key sequence detection page, with Konami logo](https://res.cloudinary.com/gerhynes/image/upload/v1515946849/Screenshot-2018-1-14_Key_Detection_2_hfubj8.png)
+[![Screenshot of key sequence detection page, with Konami logo](https://res.cloudinary.com/gerhynes/image/upload/v1515946849/Screenshot-2018-1-14_Key_Detection_2_hfubj8.png)](https://gk-hynes.github.io/key-sequence-detection/)
 
 ## Notes
 
